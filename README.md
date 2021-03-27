@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chirag-ganguli
+- 👀 Interest: Coding, R&D, ML
+- 🌱 Currently Learning: :Thinking:
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/chirag-ganguli
