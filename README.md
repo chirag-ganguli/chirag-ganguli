@@ -3,3 +3,5 @@
 - 🌱 Currently Learning: :Thinking:
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/chirag-ganguli
 - 🔆 Gitlab Profile: https://gitlab.com/suryagan11
+- 👍 Website: https://chirag-ganguli.github.io/Portfolio-Copy/
+- 👌 Linktree URL: https://linktr.ee/chiragganguli
