@@ -2,6 +2,5 @@
 - 👀 Interest: Coding, R&D, ML, AI, Cyber Security Enthusiast
 - 🌱 Currently Learning: 🫤
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/chirag-ganguli
-- 🔆 Gitlab Profile: https://gitlab.com/suryagan11
-- 👍 Website: https://chirag-ganguli.github.io/Portfolio-Copy/
-- 👌 Linktree URL: https://linktr.ee/chiragganguli
+- 👍 Website: https://chiragganguli.com/
+- 👌 Link Store URL: https://chiragganguli.com/linker
