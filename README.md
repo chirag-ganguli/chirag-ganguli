@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chirag-ganguli
-- 👀 Interest: Coding, R&D, ML, AI, Cyber Security Enthusiast
+- 👀 Interest: Coding, R&D, Cyber Security, AI, ML
 - 🌱 Currently Learning: 🫤
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/chirag-ganguli
 - 👍 Website: https://chiragganguli.com/
 - 👌 Link Store URL: https://chiragganguli.com/linker
+- 📨 Email: chirag@secured.chiragganguli.com
