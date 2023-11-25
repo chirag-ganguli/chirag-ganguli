@@ -4,4 +4,4 @@
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/chirag-ganguli
 - 👍 Website: https://chiragganguli.com/
 - 👌 Link Store: https://chiragganguli.com/linker
-- 📨 Email: work-gh@chiragganguli.com
+- 📨 Email: work-gh@mail.chiragganguli.com
